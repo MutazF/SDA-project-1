@@ -1,0 +1,23 @@
+body{
+  font-family: 'Vollkorn SC', serif;
+}
+#footerpad {
+  padding-top: 70px;
+  padding-bottom: 20px;
+  background-color: #627656;
+}
+
+a:focus, a:hover {
+  color: #E9E7E4;
+}
+
+.list-inline-item i{
+  background-color:#E9E7E4;
+  color:#627656;
+  border-radius: 50px;
+}
+
+.list-inline-item i:hover{
+  background-color:#AEBC9C;
+  color: #627656;
+}

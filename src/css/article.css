@@ -1,0 +1,17 @@
+body{
+    background-color:#E9E7E4;
+        font-family: 'Vollkorn SC', serif;
+}
+.art-img{
+    margin-top:5px;
+    align-items:center;
+}
+.article{
+    text-align:center;
+    padding:3rem;
+    margin:2rem;
+    font-size: 20px;
+}
+h1{
+    margin-bottom: 2rem;
+}
